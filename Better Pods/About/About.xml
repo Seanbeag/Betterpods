@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>Better Pod</name>
+
+    <author>Seanbeag</author>
+
+    <supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	
+	<packageId>Seanbeag.BetterPod</packageId>
+
+    <description>Increases the distance the transport pod can travel</description>
+
+</ModMetaData>
